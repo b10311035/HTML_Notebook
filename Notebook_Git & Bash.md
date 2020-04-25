@@ -1,4 +1,4 @@
-# HTML 學習筆記
+# Git_Bash 學習筆記
 
 ### Git commit 和 Git push 的差異
 - git作為支持分佈式版本管理的工具，它管理的庫(repository)分為本地庫、遠程庫。
@@ -32,5 +32,3 @@ touch xxxx.xxx
 
 ### 參考網址
 1. [學習 MarkDown](http://xianbai.me/learn-md/article/about/readme.html)<br>
-2. [程式語言-菜鳥教程](https://www.runoob.com/html/html5-canvas.html)<br>
-3. [W3school](https://www.w3schools.com)<br>
